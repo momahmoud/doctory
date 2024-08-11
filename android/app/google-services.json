@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7251537623",
+    "project_id": "doctory-848a9",
+    "storage_bucket": "doctory-848a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7251537623:android:8d8cea728b0a7c3c0b0a92",
+        "android_client_info": {
+          "package_name": "com.example.gemini_comp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9iRFthvMja-SqFEDYoPXRUv8kQ3paJEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
